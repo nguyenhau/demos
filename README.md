@@ -25,7 +25,19 @@ Adding some video demo on different projects. I post here only testing version o
   
   
 ## AI Depth Estimation from Calibrated Cameras on  a vehicle
+
+
+  ![alt text](https://github.com/nguyenhau/demos/blob/main/GIFs/Stereo.gif)
+  
  
 ## Vehicle Detection applied on Embedded System
+
+  ![alt text](https://github.com/nguyenhau/demos/blob/main/GIFs/Vehicle Tracking on embedded System.gif)
  
 ##  Some Real-time Computer Vision Applications
+
+ ![alt text](https://github.com/nguyenhau/demos/blob/main/GIFs/UR Teaching.gif)
+ 
+ 
+ ![alt text](https://github.com/nguyenhau/demos/blob/main/GIFs/liquid level measurement.gif)
+ 
