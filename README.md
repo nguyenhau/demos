@@ -1,5 +1,3 @@
-# Demonstration on some nice projects 
-Adding some video demo on different projects. I post here only testing version of the applications to follow some confidental issues.
 
 ## About me 
 
@@ -10,15 +8,18 @@ Adding some video demo on different projects. I post here only testing version o
 * OS/Flatform/Libs: Ubuntu, Windows, ROS/ROS2, OpenCV, TF/Keras, Qt, ...
 * Programing language: C/C++, Py, Matlab
 
-# Perception System for Serving Mobile Robot
+
+# Demonstration on some nice projects 
+Adding some video demo on different projects. I post here only testing version of the applications to follow some confidental issues.
+
+##  Perception System for Serving Mobile Robot
  
  Design, set up, and develop perception module for serving mobile robot that deliver food and drinks on restaurant in Korea
  
- # SLAM and Navigation on industrial Mobile Robot
+##  SLAM and Navigation on industrial Mobile Robot
+  
+## AI Depth Estimation from Calibrated Cameras on  a vehicle
  
+## Vehicle Detection applied on Embedded System
  
- # AI Depth Estimation from Calibrated Cameras on  a vehicle
- 
- # Vehicle Detection applied on Embedded System
- 
- # Some Real-time Computer Vision Applications
+##  Some Real-time Computer Vision Applications
