@@ -14,11 +14,13 @@ Adding some video demo on different projects. I post here only testing version o
 
 ##  Perception System for Serving Mobile Robot
  
- Design, set up, and develop perception module for serving mobile robot that deliver food and drinks on restaurant in Korea.
+ Design, set up, and develop perception module for serving mobile robot that deliver food and drinks on restaurant in Korea. In this video, our robot are tracking and follow a target determined.
  
  ![alt text](https://github.com/nguyenhau/demos/blob/main/GIFs/Follower.gif)
  
 ##  SLAM and Navigation on industrial Mobile Robot
+
+Our industrial mobile robot is working together with another AGV from a Japan company (ZMP). 
   
   ![alt text](https://github.com/nguyenhau/demos/blob/b22e74ccb0a61011c9ebfb9ea5c3ec7b383a7bb7/GIFs/TBot%20and%20ZMP.gif)
   
@@ -26,6 +28,7 @@ Adding some video demo on different projects. I post here only testing version o
   
 ## AI Depth Estimation from Calibrated Cameras on  a vehicle
 
+To verify the performance of our proposed calibration framework, we performed depth estimation on rectified image pairs capture by two different cameras in terms of focal length.
 
   ![alt text](https://github.com/nguyenhau/demos/blob/main/GIFs/Stereo.gif)
   
@@ -36,8 +39,9 @@ Adding some video demo on different projects. I post here only testing version o
  
 ##  Some Real-time Computer Vision Applications
 
+A computer vision application used to teach robot motion to imitate a human pose in the coffe extraction process.
  ![alt text](https://github.com/nguyenhau/demos/blob/main/GIFs/UR%20Teaching.gif)
  
- 
+ A real-time algorithm to measure a liquid volume filled in transparent botlles. By using a light system to enhance the detection ability, this application can measure the amount of liquid filled without touching the bottles.
  ![alt text](https://github.com/nguyenhau/demos/blob/main/GIFs/liquid%20level%20measurement.gif)
  
