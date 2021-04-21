@@ -32,12 +32,12 @@ Adding some video demo on different projects. I post here only testing version o
  
 ## Vehicle Detection applied on Embedded System
 
-  ![alt text](https://github.com/nguyenhau/demos/blob/main/GIFs/Vehicle Tracking on embedded System.gif)
+  ![alt text](https://github.com/nguyenhau/demos/blob/main/GIFs/Vehicle Tracking%20on%20embedded%20System.gif)
  
 ##  Some Real-time Computer Vision Applications
 
- ![alt text](https://github.com/nguyenhau/demos/blob/main/GIFs/UR Teaching.gif)
+ ![alt text](https://github.com/nguyenhau/demos/blob/main/GIFs/UR%20Teaching.gif)
  
  
- ![alt text](https://github.com/nguyenhau/demos/blob/main/GIFs/liquid level measurement.gif)
+ ![alt text](https://github.com/nguyenhau/demos/blob/main/GIFs/liquid%20level%20measurement.gif)
  
