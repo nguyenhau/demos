@@ -32,7 +32,7 @@ Adding some video demo on different projects. I post here only testing version o
  
 ## Vehicle Detection applied on Embedded System
 
-  ![alt text](https://github.com/nguyenhau/demos/blob/main/GIFs/Vehicle Tracking%20on%20embedded%20System.gif)
+  ![alt text](https://github.com/nguyenhau/demos/blob/main/GIFs/Vehicle%20Tracking%20on%20embedded%20System.gif)
  
 ##  Some Real-time Computer Vision Applications
 
