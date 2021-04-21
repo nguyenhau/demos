@@ -16,7 +16,7 @@ Adding some video demo on different projects. I post here only testing version o
  
  Design, set up, and develop perception module for serving mobile robot that deliver food and drinks on restaurant in Korea.
  
- ![alt text] https://github.com/nguyenhau/demos/blob/main/GIFs/Follower.gif
+ ![alt text] (https://github.com/nguyenhau/demos/blob/main/GIFs/Follower.gif)
  
 ##  SLAM and Navigation on industrial Mobile Robot
   
