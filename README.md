@@ -18,6 +18,10 @@ Adding some video demo on different projects. I post here only testing version o
  
 ##  SLAM and Navigation on industrial Mobile Robot
   
+  ![alt text](https://github.com/nguyenhau/demos/blob/b22e74ccb0a61011c9ebfb9ea5c3ec7b383a7bb7/GIFs/TBot%20and%20ZMP.gif)
+  
+  
+  
 ## AI Depth Estimation from Calibrated Cameras on  a vehicle
  
 ## Vehicle Detection applied on Embedded System
